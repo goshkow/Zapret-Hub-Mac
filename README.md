@@ -1,16 +1,27 @@
 <div align="center">
 
+[Версия для Windows • GitHub](https://github.com/goshkow/Zapret-Hub)
+
 # 🚀 [Zapret Hub](https://github.com/goshkow/Zapret-Hub-Mac)
 
 **Zapret Hub** - macOS-приложение для **удобного управления** `ByeDPI` / `SpoofDPI` и `TG WS Proxy` из **одного интерфейса**.
 
 **Для обычных пользователей** - без ручного запуска бинарников, поиска системных папок и настройки конфигов в терминале.
 
+**Universal** - работает как на `ARM - M1/2/3/4/5`, так и на `x86_64 - Intel`.
+
 <img width="879" height="539" alt="image" src="https://github.com/user-attachments/assets/cd3523fe-e181-4d6d-9afb-2f20caa5df1c" />
+
 
 **Автор**: goshkow • [GitHub](https://github.com/goshkow/Zapret-Hub-Mac)
 
 Что-то не работает? • [Исправить](#не-работает) • [Создать issue](https://github.com/goshkow/Zapret-Hub-Mac/issues)
+
+<p align="center">
+  <a href="https://github.com/goshkow/Zapret-Hub-Mac/releases/latest">
+    <img src="https://img.shields.io/badge/Скачать%20последнюю%20версию-Zapret%20Hub-6f42c1?style=for-the-badge&logo=apple&logoColor=white" alt="Скачать последнюю версию">
+  </a>
+</p>
 
 </div>
 
