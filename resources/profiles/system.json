@@ -1,0 +1,14 @@
+{
+  "id": "system",
+  "name": "System Proxy",
+  "description": "Default macOS local proxy profile managed through networksetup.",
+  "listen_host": "127.0.0.1",
+  "listen_port": 9080,
+  "health_port": 9081,
+  "connect_timeout": 8.0,
+  "excluded_domains": [
+    "localhost",
+    "127.0.0.1"
+  ]
+}
+

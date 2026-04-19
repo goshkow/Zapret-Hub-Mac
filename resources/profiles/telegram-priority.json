@@ -1,0 +1,14 @@
+{
+  "id": "telegram-priority",
+  "name": "Telegram Priority",
+  "description": "Alternative profile with separated ports for Telegram-heavy sessions.",
+  "listen_host": "127.0.0.1",
+  "listen_port": 9180,
+  "health_port": 9181,
+  "connect_timeout": 8.0,
+  "excluded_domains": [
+    "localhost",
+    "127.0.0.1"
+  ]
+}
+
