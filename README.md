@@ -6,6 +6,8 @@
 
 **Для обычных пользователей** - без ручного запуска бинарников, поиска системных папок и настройки конфигов в терминале.
 
+<img width="879" height="539" alt="image" src="https://github.com/user-attachments/assets/cd3523fe-e181-4d6d-9afb-2f20caa5df1c" />
+
 **Автор**: goshkow • [GitHub](https://github.com/goshkow/Zapret-Hub-Mac)
 
 Что-то не работает? • [Исправить](#не-работает) • [Создать issue](https://github.com/goshkow/Zapret-Hub-Mac/issues)
